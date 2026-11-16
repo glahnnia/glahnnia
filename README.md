@@ -6,9 +6,9 @@ I build practical AI and data systems that support **workforce development, heal
 
 ## Featured Work
 
-- https://github.com/glahnnia/ai-vendor-risk-review
-- https://github.com/glahnnia/nvchwa-career-readiness-assistant
-- https://github.com/glahnnia/healthcare-ai-adoption-analysis
+- [**AI Vendor Risk Review**](https://github.com/glahnnia/ai-vendor-risk-review)
+- [**NVCHWA Career Readiness Assistant**](https://github.com/glahnnia/nvchwa-career-readiness-assistant)
+- [**Healthcare AI Adoption Analysis**](https://github.com/glahnnia/healthcare-ai-adoption-analysis)
 
 ## Technical Focus
 
