@@ -12,6 +12,17 @@ I build practical AI and data systems that support **workforce development, heal
 
 ## Technical Focus
 
+## More Projects
+
+- [**Claude API Foundations**](https://github.com/glahnnia/claude-api-foundations)
+- [**RAG Retrieval Workflows**](https://github.com/glahnnia/rag-retrieval-workflows)
+- [**Multimodal AI Document Analysis**](https://github.com/glahnnia/multimodal-ai-document-analysis)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/glahnnia-rates)
+- Email: glahnniarates.apha@gmail.com
+
 **Python | SQL | Tableau | RAG | LLM APIs | Streamlit | AI Evaluation**
 
 **Healthcare Informatics | Learning Systems | Workforce Analytics** 
