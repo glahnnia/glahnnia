@@ -20,7 +20,7 @@ I build practical AI and data systems that support **workforce development, heal
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/glahnnia-rates)
+- [LinkedIn](https://www.linkedin.com/in/glahnniarates/)
 - Email: glahnniarates.apha@gmail.com
 
 **Python | SQL | Tableau | RAG | LLM APIs | Streamlit | AI Evaluation**
