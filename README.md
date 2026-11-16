@@ -1,25 +1,8 @@
-### Glahnnia "Renee" Rates
+# Glahnnia "Renee" Rates
 
 ### Public Health Informatics | Applied AI | Workforce Development
-**Python | SQL | Tableau | RAG | LLM APIs | Streamlit | AI Evaluation**
-
-**Healthcare Informatics | Learning Systems | Workforce Analytics** 
 
 I build practical AI and data systems that support **workforce development, healthcare, public health, training, and decision-making**.
-
-## Featured Work
-
-- [**AI Vendor Risk Review**](https://github.com/glahnnia/ai-vendor-risk-review)
-- [**NVCHWA Career Readiness Assistant**](https://github.com/glahnnia/nvchwa-career-readiness-assistant)
-- [**Healthcare AI Adoption Analysis**](https://github.com/glahnnia/healthcare-ai-adoption-analysis)
-
-## Technical Focus
-
-## More Projects
-
-- [**Claude API Foundations**](https://github.com/glahnnia/claude-api-foundations)
-- [**RAG Retrieval Workflows**](https://github.com/glahnnia/rag-retrieval-workflows)
-- [**Multimodal AI Document Analysis**](https://github.com/glahnnia/multimodal-ai-document-analysis)
 
 ## Tools & Technologies
 
@@ -31,7 +14,20 @@ I build practical AI and data systems that support **workforce development, heal
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+## Featured Work
+
+- [**AI Vendor Risk Review**](https://github.com/glahnnia/ai-vendor-risk-review)
+- [**NVCHWA Career Readiness Assistant**](https://github.com/glahnnia/nvchwa-career-readiness-assistant)
+- [**Healthcare AI Adoption Analysis**](https://github.com/glahnnia/healthcare-ai-adoption-analysis)
+
+## More Projects
+
+- [**Claude API Foundations**](https://github.com/glahnnia/claude-api-foundations)
+- [**RAG Retrieval Workflows**](https://github.com/glahnnia/rag-retrieval-workflows)
+- [**Multimodal AI Document Analysis**](https://github.com/glahnnia/multimodal-ai-document-analysis)
 
 ## Connect
 
