@@ -1,6 +1,9 @@
 ### Glahnnia "Renee" Rates
 
 ### Public Health Informatics | Applied AI | Workforce Development
+**Python | SQL | Tableau | RAG | LLM APIs | Streamlit | AI Evaluation**
+
+**Healthcare Informatics | Learning Systems | Workforce Analytics** 
 
 I build practical AI and data systems that support **workforce development, healthcare, public health, training, and decision-making**.
 
@@ -34,7 +37,3 @@ I build practical AI and data systems that support **workforce development, heal
 
 - [LinkedIn](https://www.linkedin.com/in/glahnniarates/)
 - Email: glahnniarates.apha@gmail.com
-
-**Python | SQL | Tableau | RAG | LLM APIs | Streamlit | AI Evaluation**
-
-**Healthcare Informatics | Learning Systems | Workforce Analytics** 
