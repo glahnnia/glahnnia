@@ -22,6 +22,9 @@ My work combines public health expertise with Python, applied AI, data analysis,
 
 ## Featured Work
 
+### [AI Workforce Learning & Proficiency Framework](https://github.com/glahnnia/ai-workforce-proficiency-framework)
+A Python and Streamlit application featuring a 24-question AI competency assessment, role-specific proficiency scoring, personalized learning pathways, and interactive workforce analytics using 1,500 synthetic employee records across eight departments and six employee roles.
+
 ### [Nevada CHW Workforce Operations Dashboard](https://github.com/glahnnia/nevada-chw-workforce-operations-dashboard)
 A public health informatics demonstration project integrating Python-based workforce analytics, training performance indicators, and interactive Nevada county-level geographic visualizations using synthetic CHW data.
 
