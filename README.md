@@ -42,6 +42,7 @@ A data analytics project exploring patterns and considerations surrounding artif
 - [**Claude API Foundations**](https://github.com/glahnnia/claude-api-foundations)
 - [**RAG Retrieval Workflows**](https://github.com/glahnnia/rag-retrieval-workflows)
 - [**Multimodal AI Document Analysis**](https://github.com/glahnnia/multimodal-ai-document-analysis)
+- [**MCP Client/Server Integration**](https://github.com/glahnnia/mcp-client-server-integration)
 
 ## Areas of Interest
 
